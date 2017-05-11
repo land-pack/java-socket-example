@@ -6,6 +6,7 @@
 //	@Git:	git add . | git commit -m 'my first java' | git push origin master
 //	@Git:	git tag -a v0.0.1 | git push origin master tag v0.0.1 
 
+// This is a Bug code, because the class name different with the file name!
 public class HelloWorld
 {
 	public static void main(String args[])
