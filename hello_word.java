@@ -1,10 +1,8 @@
 //	@Author:	Frank AK
 //	@Date:	2017-5-11
 //	@Desc:	Just for learn java.
-//	@Build:	javac hello_word.java
-//	@Run:	java hello_world
-//	@Git:	git add . | git commit -m 'my first java' | git push origin master
-//	@Git:	git tag -a v0.0.1 | git push origin master tag v0.0.1 
+//	@Build:	javac hello_word.java # You will failure to build it!
+
 
 // This is a Bug code, because the class name different with the file name!
 public class HelloWorld
